@@ -6,5 +6,6 @@
     <string name="action_settings">Settings</string>
     <string name="save_button">Save</string>
     <string name="read_button">Read</string>
+    <string name="enter_text">Enter text</string>
 
 </resources>
