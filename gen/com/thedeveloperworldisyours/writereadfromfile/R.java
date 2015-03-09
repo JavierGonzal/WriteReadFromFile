@@ -1648,7 +1648,6 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f09002e;
         public static final int action_mode_bar_stub=0x7f09002d;
         public static final int action_mode_close_button=0x7f090020;
-        public static final int action_settings=0x7f090044;
         public static final int activity_chooser_view_content=0x7f090021;
         public static final int activity_main_button_read=0x7f090043;
         public static final int activity_main_button_save=0x7f090042;
@@ -1756,9 +1755,6 @@ containing a value of this type.
         public static final int abc_simple_dropdown_hint=0x7f030016;
         public static final int activity_main=0x7f030017;
         public static final int support_simple_spinner_dropdown_item=0x7f030018;
-    }
-    public static final class menu {
-        public static final int main=0x7f0c0000;
     }
     public static final class string {
         /**  Content description for the action bar "home" affordance. [CHAR LIMIT=NONE] 
